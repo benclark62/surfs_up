@@ -24,7 +24,6 @@ Understanding that outdoor recreational activities and their ancillary supportin
 - Impacts of this difference are unknown as further research is needed to understand the impact sub-70 temperature days on outdoor activities and store traffic
 
 ## Summary
-### High-level summary and two additional 
 Comparable temperatures between the two months bodes well for year-round business supporting outdoor activities.  While these two months presumably represent the seasonal extremes, a more comprehensive analysis would ensure that the tropical temperatures are actually experienced year-round.  Additional research could also include:
 - 'Threshold' temperatures for outdoor activities; does dropping below a certain temperature reduce outdoor activity participation?
 - Seasonal patterns in outdoor activities; does a slight change in average temperature translate to a shift to on-land activity compared to water sports?
